@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "nombre": "CrispyBurguer",
+      "descripcion": "Carne smash, doble cheddar, panceta, cebolla crispy y salsa Club. Pan con sésamo y papas ahumadas crocantes con triple cocción.",
+      "precio": 200,
+      "img": "img/hamburguesa.png"
+    },
+  
+    {
+      "id": 2,
+      "nombre": "ClassicBurguer",
+      "descripcion": "Carne smash, lechuga, tomate, queso mozzarella, cebolla crispy, pickles de pepino, y alioli de ajo. Pan liso increible y papas con salsa.",
+      "precio": 200,
+      "img": "img/hamburguesa.png"
+    },
+  
+    {
+      "id": 3,
+      "nombre": "OnionBurguer",
+      "descripion": "Carne smash, doble cheddar, cebolla crispy, ketchup y pan con parmesano. Pan con parmesano y papas ahumadas triple cocción.",
+      "precio": 200,
+      "img": "img/hamburguesa.png"
+    },
+  
+    {
+      "id": 4,
+      "nombre": "OklaBurguer",
+      "descripcion": "Doble carne smasheada en cebolla, doble cheddar, pepinillos, muzzarellitas, honey mustard, Con papas triple cocción.",
+      "precio": 200,
+      "img": "img/hamburguesa.png"
+    },
+  
+    {
+      "id": 5,
+      "nombre": "homeBurguer",
+      "descripcion": "Doble carne smash, doble cheddar, tomate, lechuga, salsa del cuarto y pan con sésamo. Con papas triple cocción.",
+      "precio": 100,
+      "img": "img/hamburguesa.png"
+    }
+  ]
+  
